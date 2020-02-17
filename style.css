@@ -1,0 +1,13 @@
+:root{
+    
+}
+
+body {
+    background-image: linear-gradient(red, yellow)
+}
+
+h1 {
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 30px;
+
+}
